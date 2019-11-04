@@ -1,5 +1,5 @@
 # nonbank_stock
-predict nonbank stock prices
+Predict Nonbank Stock Prices
 
 Project summary: Predict stock prices of publicly traded non-bank mortgage lenders using Fannie Mae loan level data and pricing data of the underlying stocks.
 
